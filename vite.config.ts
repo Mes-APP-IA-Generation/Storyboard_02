@@ -7,4 +7,6 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
+  base: '/Storyboard_02/', // Remplacez 'repository-name' par le nom de votre repository sur GitHub
 });
+
